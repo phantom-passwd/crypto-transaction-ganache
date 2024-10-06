@@ -32,6 +32,7 @@ Create a `conf.json` file in the root directory with the following content (or j
 ```json
 {
     "crypto": "eth",
+    //wallet That receive the funds
     "adress": "0xE92B321D521Cf952DEf6F8AAE73A5E59896E4Fe4"
 }
 ```
