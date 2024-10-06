@@ -11,7 +11,7 @@ A Python module for managing and sending cryptocurrency transactions using Web3.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/crypto-transaction.git
+    git clone https://github.com/phantom-passwd/crypto-transaction.git
     cd crypto-transaction
     ```
 
@@ -28,7 +28,7 @@ A Python module for managing and sending cryptocurrency transactions using Web3.
 
 ## Configuration ⚙️
 
-Create a `conf.json` file in the root directory with the following content:
+Create a `conf.json` file in the root directory with the following content (or just modify the one in the repo):
 ```json
 {
     "crypto": "eth",
