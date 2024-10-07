@@ -1,6 +1,6 @@
-# Crypto Transaction 🚀
+# Ganache Crypto Transaction 🚀
 
-A Python module for managing and sending cryptocurrency transactions using Web3.py. This module supports Ethereum transactions and can be extended to support other cryptocurrencies.
+A Python module for managing and sending cryptocurrency transactions using Web3.py for testnet crypto. This module supports Ethereum transactions (Ganache ).
 
 ## Features ✨
 - Check account balance
@@ -49,7 +49,7 @@ Create a `conf.json` file in the root directory with the following content (or j
     # Set account and private key
     crypto_tx.set_account("0x6c6FF6805198918981UYdz6516b7465c94264", "0x41e2a9fa6aea354f303ce87ef1ezf181FEZFZF818866c4c9f82938e686809")
 
-    # Send transaction
+    # Send transaction !!!
     crypto_tx.send_transaction()
     ```
 
