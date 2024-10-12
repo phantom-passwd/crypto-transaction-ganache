@@ -11,7 +11,7 @@ A Python module for managing and sending cryptocurrency transactions using Web3.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/phantom-passwd/crypto-transaction.git
+    git clone https://github.com/phantom-passwd/crypto-transaction-ganache.git
     cd crypto-transaction
     ```
 
