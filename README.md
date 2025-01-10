@@ -41,7 +41,7 @@ Create a `conf.json` file in the root directory with the following content (or j
 
 1. Import the `CryptoTransaction` class and create an instance:
     ```python
-    from crypto import CryptoTransaction
+    from main import CryptoTransaction
 
     # Initialize with configuration file
     crypto_tx = CryptoTransaction('conf.json')
